@@ -6,6 +6,8 @@ Just with the counter top of the sink
  randomly every 10 minutes when either
  the bathroom is empty with no motion in
  the bathroom with a motion sensor as an 
+Indicator to activate when there is no
+Movement in the room
 air hockey table design for the counter top
 Where the air will exit out of the counter top
 For 2 minutes every 10 minutes when there is no

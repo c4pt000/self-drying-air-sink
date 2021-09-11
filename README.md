@@ -2,6 +2,7 @@
 
 ```
 Bathroom sink can self air dry itself
+Just with the counter top of the sink
  randomly every 10 minutes when either
  the bathroom is empty with no motion in
  the bathroom with a motion sensor as an 

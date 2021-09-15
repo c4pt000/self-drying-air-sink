@@ -1,4 +1,6 @@
-# wawa-air-sink
+# self-drying-air-sink
+
+formerly "wawa-air-sink"
 
 * thought concept design
 
